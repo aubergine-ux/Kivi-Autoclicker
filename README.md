@@ -1,6 +1,22 @@
 # Kivi-Autoclicker
-A Basic lightweight C++ Autoclicker.
+A Basic, lightweight C++ Autoclicker.
 
-Hit **'X'** to Start Clicking
-Hit **'V'** to Stop Clicking
-Hit **'Q'** to Quit Autoclicker
+---
+
+## Features
+- Start/Stop clicking with Hotkeys
+- Runs at 10-12 CPS
+- Minimal CPU Usage
+
+---
+
+## Controls
+| Key | Action |
+|-----|--------|
+| `X` | Start Clicking |
+| `V` | Stop Clicking |
+| `Q` | Quit Autoclicker |
+
+---
+
+Double-click `kivi.exe` to use.
