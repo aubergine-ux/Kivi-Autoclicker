@@ -6,7 +6,7 @@ using namespace std;
 mt19937 rng(random_device{}());
 
 void menu() {
-    cout << "Hit 'X' to Start and 'V' to Stop autoclicker. Hit 'Q' to quit.\n";
+    cout << "Hit 'X' to Start and 'V' to Stop autoclicker. Hit 'R' to Switch between Left or Click click mode. Hit 'Q' to quit.\n";
 }
 
     void clicker() {
