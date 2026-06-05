@@ -4,9 +4,10 @@ A Basic, lightweight C++ Autoclicker.
 ---
 
 ## Features
-- Start/Stop clicking with Hotkeys
-- Runs at 10-12 CPS
 - Minimal CPU Usage
+- Start/Stop clicking with Hotkeys
+- Toggle between Left and Right click
+- Runs at 10-12 CPS with Randomized Intervals
 
 ---
 
@@ -16,6 +17,7 @@ A Basic, lightweight C++ Autoclicker.
 | `X` | Start Clicking |
 | `V` | Stop Clicking |
 | `Q` | Quit Autoclicker |
+| `R` | Toggle Left or Right Click |
 
 ---
 
